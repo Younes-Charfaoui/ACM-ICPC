@@ -13,18 +13,26 @@ fun main(args: Array<String>) {
         var result = 0
         for (j in 0 until first.length) {
             if (first[j].isUpperCase() && second[j].isUpperCase()) {
-                if (first[j] != second[j]) result += b
+                if (first[j] != second[j]) {
+
+                    result += if (d + a + c > b) b else a + d + c
+                }
             } else if (first[j].isLowerCase() && second[j].isLowerCase()) {
-                if (first[j] != second[j]) result += a
+                if (first[j] != second[j]) {
+                    result += if (d + c + b > a) a else d + c + b
+                }
             } else {
 
                 if (first[j].isLowerCase()) {
+
                     result += c
-                    if (first[j].toUpperCase() != second[j])  result += a
+                    if (first[j].toUpperCase() != second[j]) {
+                        result += if (a > b) b else a
+                    }
 
                 } else {
                     result += d
-                    if (first[j].toLowerCase() != second[j])  result += b
+                    if (first[j].toLowerCase() != second[j]) result += if (a > b) b else a
                 }
             }
         }

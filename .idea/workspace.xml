@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1ca57aec-8629-4248-a0f6-335955903752" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mcpc2017/problem_a.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mcpc2017/problem_a.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mcpc2017/problem_g.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mcpc2017/problem_g.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mcpc2017/problem_e.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mcpc2017/problem_e.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,8 +67,8 @@
       <file leaf-file-name="problem_e.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/mcpc2017/problem_e.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="234">
+              <caret line="21" column="56" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -101,10 +100,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="676" />
-    <option name="width" value="697" />
-    <option name="height" value="735" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-106" />
+    <option name="y" value="49" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -304,9 +304,9 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41086587" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41935483" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293718" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32876712" />
       <window_info anchor="right" id="Flutter Outline" order="3" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -331,15 +331,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/mcpc2017/problem_e.kt</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -487,8 +479,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mcpc2017/problem_e.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="234">
+          <caret line="21" column="56" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
         </state>
       </provider>
     </entry>
